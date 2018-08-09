@@ -1,2 +1,2 @@
 # Kenny-Games
-ödev 2 tamamladım lütfen içeride nulan 1.jpg 2.jpg ve 3.jpg kontrol edin teşeküürler saygılar.
+ödev 2 tamamladım lütfen içeride bulunan 1.jpg 2.jpg ve 3.jpg kontrol edin teşekkürler saygılar.
